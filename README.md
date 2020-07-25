@@ -26,8 +26,8 @@ This project was developed with the following technologies:
 
 Control your finances in a practical way with GoFinances.
 <p align="center">
- <img alt="goFinaces" width="50%" title="#goFinances" src="assets/inicio.png"  />
- <img alt="goFinaces" width="50%" title="#goFinances" src="assets/importar.png"  />
+ <img alt="goFinaces"   title="#goFinances" src="assets/inicio.png"  />
+ <img alt="goFinaces"  title="#goFinances" src="assets/importar.png"  />
 </p>
 
 ## :information_source: How To Use
