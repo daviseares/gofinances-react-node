@@ -1,8 +1,5 @@
 <h1 align="center">
-<div style="background-color:#5636d3;width:40%; margin:auto;height:60px;display:flex;justify-content:center">
-    <img alt="goFinaces" title="#goFinances" src="web/src/assets/logo.svg" width="250px" />
-</div>
-   
+    <img alt="goFinaces" title="#goFinances" src="assets/logo.svg" width="300px" />   
 </h1>
 
 <p align="center">	
